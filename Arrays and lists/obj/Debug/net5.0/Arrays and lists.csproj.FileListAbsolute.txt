@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.exe
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.deps.json
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.dll
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\ref\Arrays and lists.dll
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\bin\Debug\net5.0\Arrays and lists.pdb
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.dll
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\ref\Arrays and lists.dll
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.pdb
+C:\Users\Dushevno\Desktop\Git\Arrays and lists\Arrays and lists\Arrays and lists\obj\Debug\net5.0\Arrays and lists.genruntimeconfig.cache
